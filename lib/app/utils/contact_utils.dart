@@ -30,9 +30,6 @@ List<ContactUtils> contactUtils = [
       url: linkedin,
       icon: "https://img.icons8.com/ios-filled/50/000000/linkedin.png"),
   ContactUtils(
-      url: upwork,
-      icon: "https://img.icons8.com/ios-filled/50/000000/upwork.png"),
-  ContactUtils(
       url: instagram,
       icon: "https://img.icons8.com/glyph-neue/64/000000/instagram-new.png"),
 ];
