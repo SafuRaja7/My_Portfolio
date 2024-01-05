@@ -11,10 +11,10 @@ String contactSubHeadding =
     "Let’s work together and make everything super cute and super useful.";
 //
 String miniDescription =
-    "Freelancer providing services for programming and design content needs. Join me down below and let's get started!";
+    "As a dedicated Flutter Developer, I specialize in crafting high-performance, visually appealing, and cross-platform mobile applications. My expertise lies in harnessing the power of the Flutter framework to create seamless user experiences that seamlessly run on both iOS and Android platforms.";
 
 String servicesSubHeading =
-    "Since the beginning of my journey as a freelance designer and developer, I've worked in startups and collaborated with talented people to create digital products for both business and consumer use. I offer a wide range of services, including brand design, programming and teaching.";
+    "Since the beginning of my journey as a designer and developer, I've worked in startups and collaborated with talented people to create digital products for both business and consumer use. I offer a wide range of services, including brand design, programming and teaching.";
 //
 
 String protfolioSubHeading =
