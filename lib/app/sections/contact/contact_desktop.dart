@@ -73,8 +73,6 @@ class ContactDesktop extends StatelessWidget {
                             vertical: 5, horizontal: 20),
                         decoration: BoxDecoration(
                             gradient: buttonGradi,
-                            // border: Border.all(
-                            //     width: 2.0, color: theme.primaryColor),
                             borderRadius: BorderRadius.circular(10)),
                         child: const Text(
                           'Get Started',
@@ -109,7 +107,6 @@ class ContactDesktop extends StatelessWidget {
               ],
             ),
           ),
-          // Space.y!,
         ],
       ),
     );
