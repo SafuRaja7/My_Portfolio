@@ -1,6 +1,6 @@
- # This is a Portfolio website.
+ # MY PORTFOLIO.
 
-- [x] This portfolio website has both dark and light.
+- [x] Portfolio Website made in Flutter.
 
 
 ## Screenshots
