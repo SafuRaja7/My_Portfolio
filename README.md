@@ -1,6 +1,6 @@
  # MY PORTFOLIO.
 
-- [x] Portfolio Website made in Flutter.
+- Portfolio Website made in Flutter.
 
 
 ## Screenshots
