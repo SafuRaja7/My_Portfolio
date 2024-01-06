@@ -15,12 +15,12 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/02.png',
+    banners: 'assets/imgs/dream_net_banner.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
+    titles: 'Dream Internet Billing',
     description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+        'This is a Billing Application for Internet Service Provider Company',
+    links: '',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
