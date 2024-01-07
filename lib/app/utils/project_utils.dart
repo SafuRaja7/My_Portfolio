@@ -26,24 +26,14 @@ List<ProjectUtils> projectUtils = [
     banners: 'assets/imgs/newsy_banner.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Newsy',
-    description:
-        'A News App build in flutter.',
-    links: 'https://github.com/sudeshnb/',
+    description: 'A News App build in flutter.',
+    links: 'https://github.com/SafuRaja7/News-App-Multi-Platform',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/imgs/covid_banner.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
-    description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
-  ),
-  ProjectUtils(
-    banners: 'assets/imgs/04.png',
-    icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
-    description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+    titles: 'Covid-19 App',
+    description: 'Covid-19 Tracker App created in Flutter.',
+    links: 'https://github.com/SafuRaja7/Covid-19-Tracker',
   ),
 ];
