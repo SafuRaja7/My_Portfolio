@@ -23,11 +23,11 @@ List<ProjectUtils> projectUtils = [
     links: '',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/1.png',
+    banners: 'assets/imgs/newsy_banner.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome CRM UI',
+    titles: 'Newsy',
     description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
+        'A News App build in flutter.',
     links: 'https://github.com/sudeshnb/',
   ),
   ProjectUtils(
